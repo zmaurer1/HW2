@@ -25,23 +25,20 @@ a {
   }
 
   .main-header2 {
-    /* display: flex; */
     justify-content: space-between;
     padding: 20px;
-    /* background: cornflowerblue; */
-    color: #fff;
+    color:gold;
     text-align: right;
-    background-image: url("https://cdn.vox-cdn.com/thumbor/KfTh7HpfJxcracomHPUHN2AdB2A=/0x0:1800x1200/1200x675/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/54177419/eatersea0316_safeco_field_official.0.0.jpg");
+    background-image: url("https://kinsta.com/wp-content/uploads/2018/09/linkedin-statistics.png");
     grid-column: 1/2;
     grid-row: 1/6;
+    
   }
 
   .main-header3 {
-    /* display: flex; */
     justify-content: space-between;
     padding: 20px;
-    /* background: cornflowerblue; */
-    color: #fff;
+    color:gold;
     text-align: right;
     background-image: url("https://kinsta.com/wp-content/uploads/2018/09/linkedin-statistics.png");
     grid-column: 2/3;
@@ -49,11 +46,9 @@ a {
   }
 
   .main-header4 {
-    /* display: flex; */
     justify-content: space-between;
     padding: 20px;
-    /* background: cornflowerblue; */
-    color: #fff;
+    color:gold;
     text-align: right;
     background-image: url("https://render.fineartamerica.com/images/rendered/default/poster/10/8/break/images-medium-5/the-seattle-pi-globe-sign-kym-backland.jpg");
     grid-column: 3/4;
@@ -61,11 +56,9 @@ a {
   }
 
   .main-header5 {
-    /* display: flex; */
     justify-content: space-between;
     padding: 20px;
-    /* background: cornflowerblue; */
-    color: #fff;
+    color:gold;
     text-align: right;
     background-image: url("https://www.jotandtittletypewriters.com/wp-content/uploads/2018/12/DSC03778.jpg");
     grid-column: 3/4;
@@ -73,11 +66,9 @@ a {
   }
 
   .main-header6 {
-    /* display: flex; */
     justify-content: space-between;
     padding: 20px;
-    /* background: cornflowerblue; */
-    color: #fff;
+    color:gold;
     text-align: right;
     background-image: url("https://i.pinimg.com/originals/fa/9a/2a/fa9a2a1745c6d2fecd8b6831e09b08e5.jpg");
     grid-column: 2/3;
@@ -85,21 +76,17 @@ a {
   }
 
   .main-header7 {
-    /* display: flex; */
     justify-content: space-between;
     padding: 20px;
-    /* background: cornflowerblue; */
-    color: #fff;
+    color:gold;
     text-align: right;
     background-image: url("https://lh3.googleusercontent.com/proxy/Z8s6BrKY19qD9mgJtmGmdmXwQvpR5CfueFEv62IrHHZ9Vpwd1BCRJWeEVZtEZ5M4ijWkoYxKDwm-uFrqjYvkPXlZ5VcACJmgdXFEigfQoxfKjUwnT_8JCJNhPy1df2m6mf_BHjaHoVvgawAb6PYITA");
   }
 
   .main-header8 {
-    /* display: flex; */
     justify-content: space-between;
     padding: 20px;
-    /* background: cornflowerblue; */
-    color: #fff;
+    color:gold;
     text-align: right;
     background-image: url("https://miro.medium.com/max/721/1*TF6-J8u1TTRZBgorm2dDMA.png");
   }
@@ -157,16 +144,8 @@ a {
     grid-gap: 20px;
   }
 
-  /* .card header {
-    padding: 20px;
-    background: #13293d;
-    color: #fff;
-    flex-wrap: wrap-reverse
-  } */
   
   .card img {
-    /* width: 100%; */
-    /* The client insists that images be at least 400px */
     min-width: 400px;
     flex-wrap: wrap-reverse;
   }
